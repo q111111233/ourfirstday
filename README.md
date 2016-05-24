@@ -1,12 +1,12 @@
-# _{Our-First-Day}_
+# _Our-First-Day_
 
-#### _{four page website describing what we did}, {05/23/2016}_
+#### _four page website describing what we did, 05/23/2016_
 
-#### By _**{Sami Al-Jamal and Kevin VanEvery}**_
+#### By _**Sami Al-Jamal and Kevin VanEvery**_
 
 ## Description
 
-_{This website consists of several pages that describe what we learned at Epicodus day  }_
+_This website consists of several pages that describe what we learned at Epicodus day_
 
 ## Setup/Installation Requirements
 
@@ -14,22 +14,21 @@ _{This website consists of several pages that describe what we learned at Epicod
 * _Open html_
 
 
-
 ## Known Bugs
 
-_{It's pretty basic. No know bugs }_
+_It's pretty basic. No know bugs _
 
 ## Support and contact details
 
-_{Dont contact us. You're on your own. }_
+_Dont contact us. You're on your own. _
 
 ## Technologies Used
 
-_{Everything was created within html. No css sheet was used}_
+_Everything was created within html. No css sheet was used_
 
 ### License
 
-MIT License
+_MIT License
 
 Copyright (c) [2016] [Sami Al-Jamal and Kevin VanEvery]
 
@@ -49,4 +48,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE._
