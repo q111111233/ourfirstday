@@ -13,3 +13,20 @@ h2 {
   font-family:sans-serif;
   text-align: left;
 }
+
+ul.day-list{
+  list-style-type: square;
+  font-size: 14pt;
+}
+
+ul.day-list li a:hover{
+  color: #000000;
+}
+
+img {
+  float: left;
+}
+
+div {
+  overflow: hidden;
+}
